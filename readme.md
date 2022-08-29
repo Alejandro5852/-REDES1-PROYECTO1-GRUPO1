@@ -22,7 +22,7 @@
 
 ## CONFIGURACIÓN DE SWITCHES
 
-### CONFIGURACIÓN DE SWITCH SW4 (PUERTOS EN MODO ACCESO)
+### CONFIGURACIÓN DE SWITCH ESW4 (PUERTOS EN MODO ACCESO)
 
     #Configuración para puerto f1/3
     Conf t
@@ -131,7 +131,7 @@
 
 ![https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/BRYAN/unknown_2022.08.25-16.16_vRStD_kJ5.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742521792](https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/BRYAN/unknown_2022.08.25-16.16_vRStD_kJ5.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742521792)
 
-### CONFIGURACIÓN DE SWITCH SW4 (PUERTOS EN MODO TRONCAL)
+### CONFIGURACIÓN DE SWITCH ESW4 (PUERTOS EN MODO TRONCAL)
 
     #Configuración puerto f1/0
     Conf t
@@ -159,7 +159,7 @@
 
 ![https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/BRYAN/unknown_2022.08.25-16.17_1_r4UzuXmqYa.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742523215](https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/BRYAN/unknown_2022.08.25-16.17_1_r4UzuXmqYa.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742523215)
 
-### CONFIGURACIÓN DE SWITCH SW4 (VLAN)
+### CONFIGURACIÓN DE SWITCH ESW4 (VLAN)
 
     Conf t
     Vtp domain grupo1
@@ -172,7 +172,7 @@
 
 
 
-### CONFIGURACIÓN DE SWITCH SW5 (PUERTOS EN MODO ACCESO)
+### CONFIGURACIÓN DE SWITCH ESW5 (PUERTOS EN MODO ACCESO)
 
     #Configuración para puerto f1/1
     Conf t
@@ -288,7 +288,7 @@
 
 ![https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/BRYAN/unknown_2022.08.25-16.16_1_dLNjEVluI.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742523013](https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/BRYAN/unknown_2022.08.25-16.16_1_dLNjEVluI.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742523013)
 
-### CONFIGURACIÓN DE SWITCH SW5 (PUERTOS EN MODO TRONCAL)
+### CONFIGURACIÓN DE SWITCH ESW5 (PUERTOS EN MODO TRONCAL)
 
     #Configuración puerto f1/0
     Conf t
@@ -308,7 +308,7 @@
 
 ![https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/BRYAN/unknown_2022.08.25-16.17_2_k0F0HVjYQG.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742522845](https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/BRYAN/unknown_2022.08.25-16.17_2_k0F0HVjYQG.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742522845)
 
-### CONFIGURACIÓN DE SWITCH SW5 (VLAN)
+### CONFIGURACIÓN DE SWITCH ESW5 (VLAN)
 
     Conf t
     Vtp domain grupo1
@@ -320,7 +320,7 @@
 ![https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/BRYAN/unknown_2022.08.25-16.18_1_tW3C089Tl.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742523037](https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/BRYAN/unknown_2022.08.25-16.18_1_tW3C089Tl.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742523037)
 
 
-### CONFIGURACIÓN DE SWITCH SW6 (PUERTOS EN MODO ACCESO)
+### CONFIGURACIÓN DE SWITCH ESW6 (PUERTOS EN MODO ACCESO)
 
     #Configuración para puerto f1/0
     Conf t
@@ -437,7 +437,7 @@
 ![https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/BRYAN/unknown_2022.08.25-16.17_FZpl381ez.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742523174](https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/BRYAN/unknown_2022.08.25-16.17_FZpl381ez.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742523174)
 
 
-### CONFIGURACIÓN DE SWITCH SW6 (PUERTOS EN MODO TRONCAL)
+### CONFIGURACIÓN DE SWITCH ESW6 (PUERTOS EN MODO TRONCAL)
 
     #Configuración puerto f1/0
     Conf t
@@ -457,7 +457,7 @@
 
 ![https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/BRYAN/unknown_2022.08.25-16.17_3_KFT-ZwZ3K.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742523177](https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/BRYAN/unknown_2022.08.25-16.17_3_KFT-ZwZ3K.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742523177)
 
-### CONFIGURACIÓN DE SWITCH SW6 (VLAN)
+### CONFIGURACIÓN DE SWITCH ESW6 (VLAN)
 
     Conf t
     Vtp domain grupo1
@@ -472,7 +472,7 @@
 
 ![https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/ANGEL/WhatsApp_Image_2022-08-28_at_9.33.43_PM__1__7laKmBwuG.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1661749758018](https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/ANGEL/WhatsApp_Image_2022-08-28_at_9.33.43_PM__1__7laKmBwuG.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1661749758018)
 
-## CONFIGURACIÓN DE SWITCH SW4 (PUERTOS EN MODO TRONCAL)
+## CONFIGURACIÓN DE SWITCH ESW4 (PUERTOS EN MODO TRONCAL)
 
     #Configuración puerto f1/0
     Conf t
@@ -492,11 +492,11 @@
 
 ![https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/ANGEL/interfaces_truncales_en_el_switch_4_Hkfrl7FDm.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742688710](https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/ANGEL/interfaces_truncales_en_el_switch_4_Hkfrl7FDm.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742688710)
 
-## CONFIGURACIÓN SWITCH SW4 (CONFIGURACIÓN COMO ROOT)
+## CONFIGURACIÓN SWITCH ESW4 (CONFIGURACIÓN COMO ROOT)
 ![https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/ANGEL/Configuraci%C3%B3n_del_switch_4_como_root_primary_a_tods_las_vlan_V-Z49OYa4.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742688990](https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/ANGEL/Configuraci%C3%B3n_del_switch_4_como_root_primary_a_tods_las_vlan_V-Z49OYa4.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742688990)
 
 
-## CONFIGURACIÓN DE SWITCH SW5 (PUERTOS EN MODO TRONCAL)
+## CONFIGURACIÓN DE SWITCH ESW5 (PUERTOS EN MODO TRONCAL)
 
     #Configuración puerto f1/0
     Conf t
@@ -516,7 +516,7 @@
 
 ![https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/ANGEL/interfaces_truncales_en_el_switch_5_sD-LsVfrn.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742688761](https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/ANGEL/interfaces_truncales_en_el_switch_5_sD-LsVfrn.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742688761)
 
-## CONFIGURACIÓN DE SWITCH SW6 (PUERTOS EN MODO TRONCAL)
+## CONFIGURACIÓN DE SWITCH ESW6 (PUERTOS EN MODO TRONCAL)
     #Configuración puerto f1/0
     Conf t
     Int f1/0
@@ -551,7 +551,7 @@
 
 ![https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/ANGEL/Interfaces_truncales_en_el_switch_6_2cEZxlOfN.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742688864](https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/ANGEL/Interfaces_truncales_en_el_switch_6_2cEZxlOfN.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742688864)
 
-## CONFIGURACIÓN DE SWITCH SW7 (PUERTOS EN MODO TRONCAL)
+## CONFIGURACIÓN DE SWITCH ESW7 (PUERTOS EN MODO TRONCAL)
     #Configuración puerto f1/0
     Conf t
     Int f1/0
@@ -579,7 +579,7 @@
 ![https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/ANGEL/interfaces_truncales_en_el_switch_7_yWcITETf_.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742688790](https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/ANGEL/interfaces_truncales_en_el_switch_7_yWcITETf_.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742688790)
 
 
-### CONFIGURACIÓN DE SWITCH SW7 (PUERTOS EN MODO ACCESO)
+### CONFIGURACIÓN DE SWITCH ESW7 (PUERTOS EN MODO ACCESO)
 
     #Configuración para puerto f1/3
     Conf t
@@ -690,7 +690,10 @@
 ![https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/ANGEL/Configuracion_de_las_vlans_nJxC2ZCED.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742688904](https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/ANGEL/Configuracion_de_las_vlans_nJxC2ZCED.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742688904)
 
 # TOPOLOGÍA 3
-### CONFIGURACIÓN DE SWITCH SW1 (PUERTOS EN MODO ACCESO)
+
+![https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/RICARDO/Sin_t%C3%ADtulo_QFuBiKEn_.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661752234579](https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/RICARDO/Sin_t%C3%ADtulo_QFuBiKEn_.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661752234579
+)
+### CONFIGURACIÓN DE SWITCH ESW1 (PUERTOS EN MODO ACCESO)
 
 
 
@@ -802,7 +805,7 @@
 
 ![https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/RICARDO/sw1-vlan-sw_qbQ4Fzv-_.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742601127](https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/RICARDO/sw1-vlan-sw_qbQ4Fzv-_.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742601127)
 
-## CONFIGURACIÓN DE SWITCH SW1 (PUERTOS EN MODO TRONCAL)
+## CONFIGURACIÓN DE SWITCH ESW1 (PUERTOS EN MODO TRONCAL)
     #Configuración puerto f1/0
     Conf t
     Int f1/0
@@ -828,7 +831,7 @@
     End
 ![https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/RICARDO/sw1-status_b1GfW3MZK.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742601234](https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/RICARDO/sw1-status_b1GfW3MZK.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742601234)
 
-### CONFIGURACIÓN DE SWITCH SW1 (VLAN)
+### CONFIGURACIÓN DE SWITCH ESW1 (VLAN)
 
     Conf t
     Vtp domain grupo1
@@ -840,7 +843,7 @@
 ![https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/RICARDO/sw1-vtp-status_4H-zyeIr0.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742601166](https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/RICARDO/sw1-vtp-status_4H-zyeIr0.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742601166)
 
 
-### CONFIGURACIÓN DE SWITCH SW1 (PUERTOS EN MODO ACCESO)
+### CONFIGURACIÓN DE SWITCH ESW1 (PUERTOS EN MODO ACCESO)
 
 
     #Configuración para puerto f1/4
@@ -958,7 +961,7 @@
 ![https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/RICARDO/sw2-vlan-sw_g2CTUOUfv5.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742601238](https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/RICARDO/sw2-vlan-sw_g2CTUOUfv5.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742601238)
 
 
-## CONFIGURACIÓN DE SWITCH SW2 (PUERTOS EN MODO TRONCAL)
+## CONFIGURACIÓN DE SWITCH ESW2 (PUERTOS EN MODO TRONCAL)
     #Configuración puerto f1/0
     Conf t
     Int f1/0
@@ -977,7 +980,7 @@
 
 ![https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/RICARDO/sw-interfaces.status_KPIzkYw2I.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742601178](https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/RICARDO/sw-interfaces.status_KPIzkYw2I.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742601178)
 
-### CONFIGURACIÓN DE SWITCH SW2 (VLAN)
+### CONFIGURACIÓN DE SWITCH ESW2 (VLAN)
 
     Conf t
     Vtp domain grupo1
@@ -988,7 +991,7 @@
     
 ![https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/RICARDO/sw-vtp-status_kVCrTfwaL9.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742601255](https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/RICARDO/sw-vtp-status_kVCrTfwaL9.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742601255)
 
-### CONFIGURACIÓN DE SWITCH SW3 (PUERTOS EN MODO ACCESO)
+### CONFIGURACIÓN DE SWITCH ESW3 (PUERTOS EN MODO ACCESO)
 
 
     #Configuración para puerto f1/4
@@ -1106,7 +1109,7 @@
 ![https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/RICARDO/sw3-vlan-sw_93pzF8uJx7.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742601235](https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/RICARDO/sw3-vlan-sw_93pzF8uJx7.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742601235)
 
 
-## CONFIGURACIÓN DE SWITCH SW3 (PUERTOS EN MODO TRONCAL)
+## CONFIGURACIÓN DE SWITCH ESW3 (PUERTOS EN MODO TRONCAL)
     #Configuración puerto f1/0
     Conf t
     Int f1/0
@@ -1125,7 +1128,7 @@
 
 ![https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/RICARDO/s3-interface.status_LMPgLMlQg.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742601199](https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/RICARDO/s3-interface.status_LMPgLMlQg.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742601199)
 
-### CONFIGURACIÓN DE SWITCH SW3 (VLAN)
+### CONFIGURACIÓN DE SWITCH ESW3 (VLAN)
 
     Conf t
     Vtp domain grupo1
@@ -1136,7 +1139,7 @@
 ![https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/RICARDO/sw3-vtp-status_Qo11-oHym.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742601195](https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/RICARDO/sw3-vtp-status_Qo11-oHym.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742601195)
 
 
-### CONFIGURACIÓN DE SWITCH SW4 (PUERTOS EN MODO ACCESO)
+### CONFIGURACIÓN DE SWITCH ESW4 (PUERTOS EN MODO ACCESO)
 
     #Configuración para puerto f1/3
     Conf t
@@ -1253,7 +1256,7 @@
 ![https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/RICARDO/s4-vlan-sw_-WuYXJoXp.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742601120](https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/RICARDO/s4-vlan-sw_-WuYXJoXp.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742601120)
 
 
-## CONFIGURACIÓN DE SWITCH SW4 (PUERTOS EN MODO TRONCAL)
+## CONFIGURACIÓN DE SWITCH ESW4 (PUERTOS EN MODO TRONCAL)
     #Configuración puerto f1/0
     Conf t
     Int f1/0
@@ -1273,7 +1276,7 @@
 
 
 
-### CONFIGURACIÓN DE SWITCH SW4 (VLAN)
+### CONFIGURACIÓN DE SWITCH ESW4 (VLAN)
 
     Conf t
     Vtp domain grupo1
@@ -1282,3 +1285,7 @@
     Do wri
     End
 ![https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/RICARDO/s4-vtp-status_q64AGQHyhB.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742601254](https://ik.imagekit.io/peu7i3asaiq/PROYECTO_REDES/RICARDO/s4-vtp-status_q64AGQHyhB.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661742601254)
+
+
+# VIDEO RESPALDO
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/Bc629mDKUHY)
