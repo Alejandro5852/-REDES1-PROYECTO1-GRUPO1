@@ -1288,4 +1288,4 @@
 
 
 # VIDEO RESPALDO
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/Bc629mDKUHY)
+[![VER VIDEO](https://ik.imagekit.io/peu7i3asaiq/r-149859581_bSAITMfZY.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1661752478448)](https://youtu.be/Bc629mDKUHY)
