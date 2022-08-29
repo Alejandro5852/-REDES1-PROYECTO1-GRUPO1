@@ -527,7 +527,7 @@
 
     #Configuración puerto f1/1
     Conf t
-    Int f1/0
+    Int f1/1
     Switchport mode trunk
     Switchport trunk allowed vlan 1,10,20,30,40,1002-1005
     Do wri
@@ -816,7 +816,7 @@
 
     #Configuración puerto f1/1
     Conf t
-    Int f1/0
+    Int f1/1
     Switchport mode trunk
     Switchport trunk allowed vlan 1,10,20,30,40,1002-1005
     Do wri
@@ -972,7 +972,7 @@
 
     #Configuración puerto f1/1
     Conf t
-    Int f1/0
+    Int f1/1
     Switchport mode trunk
     Switchport trunk allowed vlan 1,10,20,30,40,1002-1005
     Do wri
